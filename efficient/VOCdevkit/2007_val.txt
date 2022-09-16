@@ -1,0 +1,8 @@
+F:\LEE_Code\code\ssd-keras\VOCdevkit/VOC2007/JPEGImages/107.jpg 628,279,712,365,0 798,479,874,555,0
+F:\LEE_Code\code\ssd-keras\VOCdevkit/VOC2007/JPEGImages/108.jpg 745,268,820,341,0
+F:\LEE_Code\code\ssd-keras\VOCdevkit/VOC2007/JPEGImages/164.jpg 301,170,397,280,0
+F:\LEE_Code\code\ssd-keras\VOCdevkit/VOC2007/JPEGImages/2.jpg 97,507,166,578,0
+F:\LEE_Code\code\ssd-keras\VOCdevkit/VOC2007/JPEGImages/231.jpg 713,245,800,329,0 370,392,446,467,0 186,1,254,43,0
+F:\LEE_Code\code\ssd-keras\VOCdevkit/VOC2007/JPEGImages/43.jpg 356,533,417,599,0
+F:\LEE_Code\code\ssd-keras\VOCdevkit/VOC2007/JPEGImages/58.jpg 383,284,473,380,0 806,79,873,148,0 563,377,623,441,0 1,370,54,440,0
+F:\LEE_Code\code\ssd-keras\VOCdevkit/VOC2007/JPEGImages/62.jpg 158,129,232,197,0 1,376,59,450,0
